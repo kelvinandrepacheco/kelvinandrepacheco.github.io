@@ -1,5 +1,3 @@
-**Senior Machine Learning Engineer & AI Architect**
-
 Welcome to my portfolio. I am an engineer passionate about building production-grade agentic systems and scalable AI architectures. With a Ph.D. in Chemical Engineering focused on neural networks, I combine deep analytical rigor with modern software engineering best practices to solve complex problems.
 
 Currently, I lead technical teams in developing advanced Machine Learning solutions, with a strong focus on building robust tools, LLM observability, and evaluation frameworks.
