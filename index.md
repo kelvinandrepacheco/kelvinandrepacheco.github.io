@@ -1,5 +1,3 @@
-## Senior Machine Learning Engineer & AI Architect
-
 Welcome to my portfolio. I engineer production-grade AI systems, focusing on agentic workflows, scalable APIs, and robust LLM observability. With a Ph.D. in Chemical Engineering centered on neural network applications, I bridge deep analytical rigor with modern software engineering to solve complex, high-stakes problems.
 
 Currently, I lead the competitive Machine Learning team at Factored, driving technical strategy for global data science challenges while architecting advanced, reliable generative AI pipelines.
