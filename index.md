@@ -40,8 +40,13 @@ Currently, I lead the competitive Machine Learning team at Factored, driving tec
 I actively write about AI architecture, deployment strategies, and evaluating language models in production. You can read my latest deep dives on Medium:
 
 * **[LLM-as-a-judge: Evaluating LLM Outputs and the Challenge of Hallucinations](https://medium.com/@kelvinpac/llm-as-a-judge-evaluating-llm-outputs-and-the-challenge-of-hallucinations-7264e838f941)**
+  *An exploration of using language models to systematically evaluate AI outputs and mitigate the persistent issue of hallucinations in generative pipelines.*
+
 * **[From Fragile to Agile: How We Built a Bulletproof LLM Gateway with Portkey](https://medium.com/@kelvinpac/from-fragile-to-agile-how-we-built-a-bulletproof-llm-gateway-with-portkey-54c13425fd21)**
+  *A deep dive into architecting a robust, production-ready LLM gateway to handle API routing, observability, and system resilience at scale.*
+
 * **[From VMs to Kubernetes: A CI/CD Pipeline Migration Journey](https://medium.com/@kelvinpac/from-vms-to-kubernetes-a-ci-cd-pipeline-migration-journey-d25bba90a1c8)**
+  *A technical walkthrough of modernizing infrastructure by migrating continuous integration and deployment pipelines from virtual machines to scalable Kubernetes clusters.*
 
 ---
 
