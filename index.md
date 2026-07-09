@@ -1,4 +1,3 @@
-# Kelvin Pacheco
 **Senior Machine Learning Engineer & AI Architect**
 
 Welcome to my portfolio. I am an engineer passionate about building production-grade agentic systems and scalable AI architectures. With a Ph.D. in Chemical Engineering focused on neural networks, I combine deep analytical rigor with modern software engineering best practices to solve complex problems.
@@ -39,5 +38,5 @@ Continuous advancement is fundamental in the AI field. Some of my recent milesto
 
 If you share an interest in AI architecture, competitive data science, or enjoying good Pagode music during downtime, feel free to reach out.
 
-* [LinkedIn](https://www.linkedin.com/in/kelvin-andre-pacheco-34928379/)[cite: 1]
-* [GitHub](https://github.com/kelvinandrepacheco)[cite: 1]
+* [LinkedIn](https://www.linkedin.com/in/kelvin-andre-pacheco-34928379/)
+* [GitHub](https://github.com/kelvinandrepacheco)
