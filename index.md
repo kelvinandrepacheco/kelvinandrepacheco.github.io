@@ -1,40 +1,57 @@
-Welcome to my portfolio. I am an engineer passionate about building production-grade agentic systems and scalable AI architectures. With a Ph.D. in Chemical Engineering focused on neural networks, I combine deep analytical rigor with modern software engineering best practices to solve complex problems.
+## Senior Machine Learning Engineer & AI Architect
 
-Currently, I lead technical teams in developing advanced Machine Learning solutions, with a strong focus on building robust tools, LLM observability, and evaluation frameworks.
+Welcome to my portfolio. I engineer production-grade AI systems, focusing on agentic workflows, scalable APIs, and robust LLM observability. With a Ph.D. in Chemical Engineering centered on neural network applications, I bridge deep analytical rigor with modern software engineering to solve complex, high-stakes problems.
 
----
-
-## 🛠️ Technical Expertise & Current Focus
-
-* **Software Engineering & APIs:** Building type-safe, secure systems using **FastAPI** and **Pydantic**.
-* **AI Agent Development:** Architecting LLM-based systems, implementing *LLM-as-a-judge* pipelines, and exploring rapid development loops through *vibe coding*.
-* **LLMOps & Observability:** Advanced integration and monitoring of agent traces using **Langfuse**, **Sentry**, and **Azure Monitor**.
-* **Competitive Data Science:** Strategy and high-performance modeling in **Kaggle** challenges (such as the ARC Prize and NFL Prediction).
+Currently, I lead the competitive Machine Learning team at Factored, driving technical strategy for global data science challenges while architecting advanced, reliable generative AI pipelines.
 
 ---
 
-## 🚀 Featured Projects
+### 🛠️ Core Stack & Architecture
 
-### Intelligent Agent Ecosystems
-Design and implementation of autonomous agents, including the **Deep Researcher** project, a tool focused on optimizing and autonomously assisting with data collection for Machine Learning competitions.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_Monitor-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 
-### Machine Learning in Production
-* **FastAPI Churn Prediction:** Transforming predictive models into scalable, consumable services, ensuring real-time data validation.
-* **Chemical Process Optimization:** Practical application of neural networks for complex data modeling (including battery optimization and data collection in industrial environments)[cite: 1].
-
----
-
-## 🎤 Speaking & Certifications
-
-Continuous advancement is fundamental in the AI field. Some of my recent milestones include:
-* **Certification:** Claude Architect Certification (2026)
-* **Speaking:** Presentation submitted for TDC São Paulo 2026 focused on *LLM Observability and LLMOps with Langfuse*.
+**Architectural Philosophy:** I have moved beyond isolated notebook experiments. My approach emphasizes type-safe API boundaries, rigorous evaluation logs, and failure handling. *Vibe coding* for rapid architectural iterations, paired with strict human expert curation to guarantee production reliability.
 
 ---
 
-## 📫 Let's Connect
+### 🚀 Engineered Systems & Projects
 
-If you share an interest in AI architecture, competitive data science, or enjoying good Pagode music during downtime, feel free to reach out.
+#### 1. Autonomous Agentic Systems: Deep Researcher
+*An autonomous workflow designed to accelerate competitive machine learning strategy formulation.*
+* **Architecture:** Built using **PydanticAI** and **FastAPI** to ensure strict data validation and type safety across agent interactions.
+* **Capabilities:** Executes multi-step reasoning, complex tool calling, and autonomous data collection.
+* **Impact:** Drastically reduces the time spent on initial data plumbing and pipeline setup during rapid-iteration Kaggle competitions.
+
+#### 2. LLMOps & Evaluation Frameworks
+*Because production LLMs require deep observability, not just basic text generation.*
+* **Tracing:** Comprehensive integration with **Langfuse**, **Sentry**, and **Azure Monitor** to capture payload snapshots, trace token usage, and monitor system latency.
+* **Validation:** Designed custom *LLM-as-a-judge* evaluation pipelines to run golden-set queries, trace citation coverage, and systematically catch failure edges.
+
+#### 3. Full-Stack ML: API Churn Prediction & Process Optimization
+*Transforming predictive models into consumable, scalable enterprise services.*
+* **Implementation:** Deployed high-performance FastAPI predictive endpoints with robust error handling and real-time data validation.
+* **Domain Applications:** Adapted similar architectural rigor to optimize complex industrial chemical processes, including battery optimization and data collection via neural networks.
+
+---
+
+### 🏆 Competitive Data Science
+Leading technical strategy in global, high-stakes environments:
+* **Kaggle Competitions:** ARC Prize, NFL Prediction, and the DeepPast Akkadian Challenge.
+
+---
+
+### 🎤 Milestones & Certifications
+* **Certification:** [Claude Architect Certification (2026)](https://www.credly.com/badges/b4695a98-3cf4-49af-9eac-fdefe03a1b22)
+* **Speaking:** Presenting on *LLM Observabilidade e LLMOps com Langfuse* at [TDC São Paulo 2026](https://thedevconf.com/tdc/2026/sao-paulo/).
+
+---
+
+### 📫 Let's Connect
+
+When I am not architecting AI workflows or optimizing model performance, you can usually find me listening to Tim Maia, Jorge Vercillo, and quality Pagode, or even enjoying the beach and catching waves on a surfboard.
 
 * [LinkedIn](https://www.linkedin.com/in/kelvin-andre-pacheco-34928379/)
 * [GitHub](https://github.com/kelvinandrepacheco)
