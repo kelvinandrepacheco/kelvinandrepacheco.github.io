@@ -35,6 +35,16 @@ Currently, I lead the competitive Machine Learning team at Factored, driving tec
 
 ---
 
+### 📝 Technical Writing & Publications
+
+I actively write about AI architecture, deployment strategies, and evaluating language models in production. You can read my latest deep dives on Medium:
+
+* **[LLM-as-a-judge: Evaluating LLM Outputs and the Challenge of Hallucinations](https://medium.com/@kelvinpac/llm-as-a-judge-evaluating-llm-outputs-and-the-challenge-of-hallucinations-7264e838f941)**
+* **[From Fragile to Agile: How We Built a Bulletproof LLM Gateway with Portkey](https://medium.com/@kelvinpac/from-fragile-to-agile-how-we-built-a-bulletproof-llm-gateway-with-portkey-54c13425fd21)**
+* **[From VMs to Kubernetes: A CI/CD Pipeline Migration Journey](https://medium.com/@kelvinpac/from-vms-to-kubernetes-a-ci-cd-pipeline-migration-journey-d25bba90a1c8)**
+
+---
+
 ### 🏆 Competitive Data Science
 Leading technical strategy in global, high-stakes environments:
 * **Kaggle Competitions:** ARC Prize, NFL Prediction, and the DeepPast Akkadian Challenge.
