@@ -2,24 +2,162 @@
 layout: default
 ---
 
-Welcome to my portfolio. I engineer production-grade AI systems, focusing on agentic workflows, scalable APIs, and robust LLM observability. With a Ph.D. in Chemical Engineering centered on neural network applications, I bridge deep analytical rigor with modern software engineering to solve complex, high-stakes problems.
+Welcome to my portfolio. I design production AI systems that combine autonomous agents,
+LLM evaluation, observability, and scalable cloud infrastructure.
 
-Currently, I lead the competitive Machine Learning team at Factored, driving technical strategy for global data science challenges while architecting advanced, reliable generative AI pipelines.
+Currently, I lead the competitive Machine Learning team at [Factored](https://www.factored.ai), driving technical strategy for global data science challenges while architecting advanced, reliable generative AI pipelines.
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+  <a href="https://www.linkedin.com/in/kelvin-andre-pacheco-34928379/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/kelvinandrepacheco" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://medium.com/@kelvinpac" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+</div>
+
+<style>
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 16px;
+  margin: 30px 0;
+}
+
+.stat-card {
+  background: var(--color-canvas-default, #ffffff);
+  border: 1px solid var(--color-border-default, #d0d7de);
+  border-radius: 12px;
+  padding: 22px;
+  transition: all .2s ease;
+}
+
+.stat-card:hover {
+  transform: translateY(-4px);
+  border-color: #58a6ff;
+  box-shadow: 0 8px 20px rgba(0,0,0,.08);
+}
+
+.stat-number {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #0969da;
+  margin-bottom: 10px;
+}
+
+.stat-title {
+  font-size: 1rem;
+  font-weight: 600;
+  color: inherit;
+}
+
+.stat-subtitle {
+  margin-top: 6px;
+  font-size: .9rem;
+  color: #656d76;
+  line-height: 1.4;
+}
+
+@media (prefers-color-scheme: dark) {
+
+  .stat-card {
+    background: #161b22;
+    border-color: #30363d;
+  }
+
+  .stat-number {
+    color: #58a6ff;
+  }
+
+  .stat-subtitle {
+    color: #8b949e;
+  }
+
+  .stat-card:hover {
+    box-shadow: 0 10px 25px rgba(0,0,0,.35);
+  }
+
+}
+</style>
+
+### Highlights
+
+<div class="stats-grid">
+
+<div class="stat-card">
+<div class="stat-number">10+</div>
+<div class="stat-title">Years Engineering</div>
+<div class="stat-subtitle">
+Building industrial software, optimization models and production AI systems.
+</div>
+</div>
+
+<div class="stat-card">
+<div class="stat-number">6+</div>
+<div class="stat-title">Years in Machine Learning</div>
+<div class="stat-subtitle">
+Production ML, MLOps, LLMs, agentic workflows and enterprise AI.
+</div>
+</div>
+
+<div class="stat-card">
+<div class="stat-number">Ph.D.</div>
+<div class="stat-title">Chemical Engineering</div>
+<div class="stat-subtitle">
+Research focused on neural networks, optimization and industrial AI.
+</div>
+</div>
+
+<div class="stat-card">
+<div class="stat-number">🏢</div>
+<div class="stat-title">Enterprise GenAI</div>
+<div class="stat-subtitle">
+Architecting production-grade AI platforms for global organizations.
+</div>
+</div>
+
+<div class="stat-card">
+<div class="stat-number">🤖</div>
+<div class="stat-title">Agentic AI</div>
+<div class="stat-subtitle">
+Multi-agent systems, structured outputs, evaluation and observability.
+</div>
+</div>
+
+<div class="stat-card">
+<div class="stat-number">☁️</div>
+<div class="stat-title">Azure Cloud</div>
+<div class="stat-subtitle">
+Azure OpenAI, Databricks, Container Apps, DevOps and cloud-native ML.
+</div>
+</div>
+
+</div>
 
 ---
 
-### 🛠️ Core Stack & Architecture
+### Technologies
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_Monitor-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![PydanticAI](https://img.shields.io/badge/PydanticAI-E92063?style=for-the-badge)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub%20Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 **Architectural Philosophy:** I have moved beyond isolated notebook experiments. My approach emphasizes type-safe API boundaries, rigorous evaluation logs, and failure handling. *Vibe coding* for rapid architectural iterations, paired with strict human expert curation to guarantee production reliability.
 
 ---
 
-### 🚀 Engineered Systems & Projects
+### Engineered Systems & Projects
 
 #### 1. Autonomous Agentic Systems: Deep Researcher
 *An autonomous workflow designed to accelerate competitive machine learning strategy formulation.*
@@ -39,9 +177,11 @@ Currently, I lead the competitive Machine Learning team at Factored, driving tec
 
 ---
 
-### 📝 Technical Writing & Publications
+### Writing & Publications
 
-I actively write about AI architecture, deployment strategies, and evaluating language models in production. You can read my latest deep dives on Medium:
+I write about production AI engineering,
+LLMOps, evaluation frameworks,
+and enterprise architecture. You can read my latest deep dives on Medium:
 
 <style>
   .article-carousel {
@@ -159,21 +299,18 @@ I actively write about AI architecture, deployment strategies, and evaluating la
 
 ---
 
-### 🏆 Competitive Data Science
+### Competitive Data Science
 Leading technical strategy in global, high-stakes environments:
 * **Kaggle Competitions:** ARC Prize, NFL Prediction, and the DeepPast Akkadian Challenge.
 
 ---
 
-### 🎤 Milestones & Certifications
+### Milestones & Certifications
 * **Certification:** [Claude Architect Certification (2026)](https://www.credly.com/badges/b4695a98-3cf4-49af-9eac-fdefe03a1b22)
 * **Speaking:** Presenting on *LLM Observabilidade e LLMOps com Langfuse* at [TDC São Paulo 2026](https://thedevconf.com/tdc/2026/sao-paulo/).
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
-When I am not architecting AI workflows or optimizing model performance, you can usually find me listening to Tim Maia, Jorge Vercillo, and quality Pagode, or even enjoying the beach and catching waves on a surfboard.
-
-* [LinkedIn](https://www.linkedin.com/in/kelvin-andre-pacheco-34928379/)
-* [GitHub](https://github.com/kelvinandrepacheco)
+Outside engineering, you can usually find me listening to Tim Maia, Jorge Vercillo, and quality Pagode, or even enjoying the beach and catching waves on a surfboard.
