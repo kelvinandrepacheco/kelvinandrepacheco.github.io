@@ -2,10 +2,9 @@
 layout: default
 ---
 
-Welcome to my portfolio. I design production AI systems that combine autonomous agents,
-LLM evaluation, observability, and scalable cloud infrastructure.
+I build production AI systems that organizations trust.
 
-Currently, I lead the competitive Machine Learning team at [Factored](https://www.factored.ai), driving technical strategy for global data science challenges while architecting advanced, reliable generative AI pipelines.
+My journey started in Chemical Engineering, evolved through optimization and machine learning research across four countries, and today focuses on LLMOps, agentic systems, and enterprise AI.
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
   <a href="https://www.linkedin.com/in/kelvin-andre-pacheco-34928379/" target="_blank">
@@ -84,55 +83,54 @@ Currently, I lead the competitive Machine Learning team at [Factored](https://ww
 }
 </style>
 
-### Highlights
 
 <div class="stats-grid">
 
 <div class="stat-card">
 <div class="stat-number">10+</div>
-<div class="stat-title">Years Engineering</div>
+<div class="stat-title">Years Building Engineering Solutions</div>
 <div class="stat-subtitle">
-Building industrial software, optimization models and production AI systems.
+From industrial optimization to enterprise AI systems.
 </div>
 </div>
 
 <div class="stat-card">
 <div class="stat-number">6+</div>
-<div class="stat-title">Years in Machine Learning</div>
+<div class="stat-title">Years in AI & Machine Learning</div>
 <div class="stat-subtitle">
-Production ML, MLOps, LLMs, agentic workflows and enterprise AI.
+Production ML, LLMOps, agentic workflows and enterprise AI.
+</div>
+</div>
+
+<div class="stat-card">
+<div class="stat-number">4</div>
+<div class="stat-title">Countries</div>
+<div class="stat-subtitle">
+Research, education and international experience across Brazil, the UK, China and the United States.
 </div>
 </div>
 
 <div class="stat-card">
 <div class="stat-number">Ph.D.</div>
-<div class="stat-title">Chemical Engineering</div>
+<div class="stat-title">Neural Networks & Optimization</div>
 <div class="stat-subtitle">
-Research focused on neural networks, optimization and industrial AI.
+Applied AI research focused on industrial systems and sustainable engineering.
 </div>
 </div>
 
 <div class="stat-card">
-<div class="stat-number">🏢</div>
-<div class="stat-title">Enterprise GenAI</div>
+<div class="stat-number">🎓</div>
+<div class="stat-title">Educator & Speaker</div>
 <div class="stat-subtitle">
-Architecting production-grade AI platforms for global organizations.
+Instructor at Alura and ADA, Medium writer and speaker at The Developer's Conference (TDC).
 </div>
 </div>
 
 <div class="stat-card">
 <div class="stat-number">🤖</div>
-<div class="stat-title">Agentic AI</div>
+<div class="stat-title">Enterprise AI Architect</div>
 <div class="stat-subtitle">
-Multi-agent systems, structured outputs, evaluation and observability.
-</div>
-</div>
-
-<div class="stat-card">
-<div class="stat-number">☁️</div>
-<div class="stat-title">Azure Cloud</div>
-<div class="stat-subtitle">
-Azure OpenAI, Databricks, Container Apps, DevOps and cloud-native ML.
+Designing production LLM platforms with agents, evaluation, observability and cloud infrastructure.
 </div>
 </div>
 
@@ -140,20 +138,144 @@ Azure OpenAI, Databricks, Container Apps, DevOps and cloud-native ML.
 
 ---
 
-### Technologies
+## My Journey
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![PydanticAI](https://img.shields.io/badge/PydanticAI-E92063?style=for-the-badge)
-![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub%20Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+My career didn't start in software—it started with a fascination for understanding complex systems.
 
-**Architectural Philosophy:** I have moved beyond isolated notebook experiments. My approach emphasizes type-safe API boundaries, rigorous evaluation logs, and failure handling. *Vibe coding* for rapid architectural iterations, paired with strict human expert curation to guarantee production reliability.
+I studied Chemical Engineering, where I learned how mathematics, physics, and engineering principles could be used to model real-world processes. During my undergraduate studies, I joined a research internship at the University of Hull (UK), working on energy storage systems and process simulation. It was my first experience collaborating in an international research environment, and it reinforced my passion for solving complex problems.
+
+That curiosity led me to pursue a Master's degree focused on optimization and mathematical modeling. I became increasingly interested in building models that could not only describe systems, but also improve them.
+
+Along the way, I spent time in China studying Mandarin and Chinese culture. While not directly related to engineering, it broadened my perspective and taught me the value of approaching problems through different cultural and intellectual lenses.
+
+By the time I began my Ph.D. at the University of São Paulo, machine learning had become a natural extension of my research. My work focused on combining neural networks with optimization techniques to improve industrial processes and sustainability. During my doctorate, I was also selected for a research internship at the University of Wisconsin–Madison, where I collaborated with researchers in process systems engineering.
+
+Looking back, the transition feels inevitable. Optimization led me to machine learning. Machine learning led me to software engineering. Software engineering led me to building production AI systems.
+
+Today, I design enterprise-scale AI platforms involving LLMs, agentic workflows, evaluation frameworks, observability, and cloud-native infrastructure. Although the technologies have changed dramatically, the motivation has remained the same: using data, mathematics, and software to solve complex real-world problems.
+
+---
+
+### Beyond Work
+
+Outside of engineering, I enjoy surfing, Brazilian music, and exploring how emerging AI technologies can be translated into practical business value.
+
+I believe the most interesting innovations happen at the intersection of research, engineering, and education—a space I've been fortunate to work in throughout my career.
+
+---
+
+<style>
+.tech-grid {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 20px;
+  margin: 30px 0;
+  flex-wrap: wrap;
+}
+
+.tech-column {
+  flex: 1;
+  min-width: 170px;
+  text-align: center;
+}
+
+.tech-column h4 {
+  margin-bottom: 14px;
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #58a6ff;
+}
+
+.tech-column img {
+  display: block;
+  margin: 7px auto;
+  max-width: 100%;
+  transition: transform .15s ease;
+}
+
+.tech-column img:hover {
+  transform: scale(1.04);
+}
+
+@media (prefers-color-scheme: light) {
+  .tech-column h4 {
+    color: #0969da;
+  }
+}
+
+@media (max-width: 900px) {
+  .tech-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+  }
+}
+
+@media (max-width: 600px) {
+  .tech-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
+
+## Engineering Stack
+
+<div class="tech-grid">
+
+<div class="tech-column">
+
+<h4>AI Engineering</h4>
+
+<img src="https://img.shields.io/badge/PydanticAI-E92063?style=for-the-badge">
+<img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry">
+<img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge">
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white">
+
+</div>
+
+<div class="tech-column">
+
+<h4>Backend</h4>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge">
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge">
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white">
+
+</div>
+
+<div class="tech-column">
+
+<h4>Cloud</h4>
+
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+
+</div>
+
+<div class="tech-column">
+
+<h4>Machine Learning</h4>
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/XGBoost-006400?style=for-the-badge">
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+
+</div>
+
+</div>
+
+> My focus isn't on training models in notebooks, it's on building reliable AI products. I care about evaluation, observability, software architecture, testing, and production deployment just as much as model performance.
 
 ---
 
@@ -177,11 +299,16 @@ Azure OpenAI, Databricks, Container Apps, DevOps and cloud-native ML.
 
 ---
 
-### Writing & Publications
+## Educator & Community
 
-I write about production AI engineering,
-LLMOps, evaluation frameworks,
-and enterprise architecture. You can read my latest deep dives on Medium:
+Beyond building AI systems, I enjoy teaching and sharing knowledge.
+
+- Created AI and Machine Learning courses for Alura, one of Brazil's largest online learning platforms.
+- Developed educational content and training programs for ADA Tech.
+- Speaker at The Developer's Conference ([TDC São Paulo 2026](https://thedevconf.com/tdc/2026/sao-paulo/)), presenting topics on LLMOps, observability, and production AI.
+- Lead competitive machine learning initiatives and mentor engineers working on advanced AI challenges. **Kaggle Competitions:** ARC Prize, NFL Prediction, and the DeepPast Akkadian Challenge.
+- **Certification:** [Claude Architect Certification (2026)](https://www.credly.com/badges/b4695a98-3cf4-49af-9eac-fdefe03a1b22)
+- Published technical articles on Medium covering evaluation frameworks, LLM infrastructure, and cloud-native AI systems. You can read my latest deep dives on Medium:
 
 <style>
   .article-carousel {
@@ -296,21 +423,3 @@ and enterprise architecture. You can read my latest deep dives on Medium:
 </div>
 
 <br>
-
----
-
-### Competitive Data Science
-Leading technical strategy in global, high-stakes environments:
-* **Kaggle Competitions:** ARC Prize, NFL Prediction, and the DeepPast Akkadian Challenge.
-
----
-
-### Milestones & Certifications
-* **Certification:** [Claude Architect Certification (2026)](https://www.credly.com/badges/b4695a98-3cf4-49af-9eac-fdefe03a1b22)
-* **Speaking:** Presenting on *LLM Observabilidade e LLMOps com Langfuse* at [TDC São Paulo 2026](https://thedevconf.com/tdc/2026/sao-paulo/).
-
----
-
-### Let's Connect
-
-Outside engineering, you can usually find me listening to Tim Maia, Jorge Vercillo, and quality Pagode, or even enjoying the beach and catching waves on a surfboard.
